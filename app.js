@@ -1,3 +1,31 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Temasevastopol 
+ViktoryiaYatskova
+/
+clean-code-s1e1
+Public
+Code
+Issues
+Pull requests
+76
+Actions
+Projects
+Security
+Insights
+clean-code-s1e1/app.js /
+
+Viktoryia Yatskova fix: Styles for new task and remove text for Delete-button
+Latest commit 4f5fffa on 24 Mar 2021
+ History
+ 0 contributors
+195 lines (135 sloc)  5.35 KB
+
 //Document is the DOM can be accessed in the console with document.window.
 // Tree is from the top, html, body, p etc.
 
